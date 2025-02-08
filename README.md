@@ -2,7 +2,7 @@
 kahz or kahzukie
 
 # Tech
-mainly focused on python nowdays, mostly doing scrapers, but it is what it is
+mainly focused on python nowdays, mostly doing scrapers, but it is what it is  
 learning react native
 
 # Interested
